@@ -292,6 +292,9 @@ body {
     .mobile-only {
         display: block !important;
     }
+    .navbar-logo {
+        height: 56px !important;
+    }
     .floating-filter-bar {
         position: relative;
         bottom: auto;
